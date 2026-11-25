@@ -1,0 +1,6 @@
+{
+  "name": "TruthLens — P58 News Aggregator & Misinformation Flagging",
+  "description": "P58 TruthLens: Explainable news aggregator with misinformation flagging, user report & appeal workflows, moderator review console, and engineering project documentation by Manya B U (ENG24CS0126).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
